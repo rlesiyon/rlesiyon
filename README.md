@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rlesiyon
-- 👀 I’m interested in learning different technologies utilized in data science field.
+-Hi, I’m @rlesiyon
+-I’m interested in learning different technologies utilized in data science field.
 
 
 <!---
