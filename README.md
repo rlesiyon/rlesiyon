@@ -25,7 +25,7 @@ This project implements a method for scrapping youtube search result using selen
   We define the project configuration using **hydra**. With hydra we can store file path with credentials and website headers, root url and country of search in yaml file.
 
 
-Learning: 
+## Learning Process: 
 
 - Rust language
 - Exploring polars and alternative for pandas in python. 
