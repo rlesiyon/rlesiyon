@@ -1,12 +1,35 @@
 # Raymond Lesiyon
 
-:wave: Hello.
+- Master student in Computational Mathematics Science and Engineering
+- Have used python for data science projects and software engineering.
+- Knowledge in Linear Algebra, Numerical Linear Algebra, probability and statistics.
+- Pursue to write efficient and clean code.
 
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![google-api-exploration](https://img.shields.io/static/v1?label=&message=google-api-exploration&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/rlesiyon/google-api-exploration)
-| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/)  | [![google-api-exploration](https://img.shields.io/static/v1?label=&message=google-api-exploration&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/rlesiyon/google-api-exploration) 
+# Projects: 
 
+### <a href="https://github.com/rlesiyon/youtube_scrapping">Youtube scrapping</a>
+
+This project implements a method for scrapping youtube search result using selenium. Selenium is a perform document that allows for automation of website by the use of webdriver.
+
+#### skills learned
++ ***Selenium:*** 
+
+    Automating website scrolling to get a large source html to parse. The html page is parse using ```XPATH```. We first inspected the html source page and got the respective xpath for a video renderer. We then use the corresponding xpath to find the videoId for the youtube video.
+
++ ***Youtube Data api:*** 
+ 
+  To get the video statistics and video description, we used Youtube Data Api to access each video. 
+
++ ***Hydra:*** 
+
+  We define the project configuration using **hydra**. With hydra we can store file path with credentials and website headers, root url and country of search in yaml file.
+
+
+Learning: 
+
+- Rust language
+- Exploring polars and alternative for pandas in python. 
+- Understand datafusion
 
 
 <!---
