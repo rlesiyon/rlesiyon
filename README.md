@@ -1,9 +1,23 @@
 # Raymond Lesiyon
 
-Master of Engineering in Computational Mathematics, Science, and Engineering
-Experienced in using Python and R for both data science projects and software engineering.
-Proficient in Linear Algebra, Numerical Linear Algebra, Probability, and Statistics.
-Committed to writing efficient and clean code.
+- Master of Engineering in Computational Mathematics, Science, and Engineering
+- Experienced in using Python and R for both data science projects and software engineering.
+- Proficient in Linear Algebra, Numerical Linear Algebra, Probability, and Statistics.
+- Committed to writing efficient and clean code.
+
+
+**Educational Background:** 
+- Master of Engineering in Computational Mathematics Science and Engineering(CMSE), providing a robust foundation in advanced computational techniques.
+- Bachelor of Science in Biosystems Engineering with Concentration in Biomedical Engineering & Minor in CMSE
+  
+**Technical Skills:** 
+- Proficient in Python and R, utilized extensively in data science projects and software engineering tasks to analyze complex datasets and build predictive models.
+
+**Mathematical Expertise:** 
+- Solid understanding of Linear Algebra, Numerical Linear Algebra, Probability, and Statistics, essential for developing sophisticated algorithms and data analysis tools.
+
+**Professional Aspiration:** 
+- Passionate in bringing computational approaches to analyze biological data to advance healthcare practice.
 
 # Projects: 
 
