@@ -1,5 +1,8 @@
 # Raymond Lesiyon
 
+**Professional Aspiration:** 
+- Passionate about leveraging computational methods to advance healthcare through biological data analysis
+- 
 **Educational Background:** 
 - Master of Engineering in Computational Mathematics Science and Engineering(CMSE), providing a robust foundation in advanced computational techniques.
 - Bachelor of Science in Biosystems Engineering with Concentration in Biomedical Engineering & Minor in CMSE
@@ -7,13 +10,13 @@
 **Technical Skills:** 
 - Proficient in Python and R, utilized extensively in data science projects and software engineering tasks to analyze complex datasets and build predictive models.
 - Git, Unix/Linux, FastQC, samtools, STAR, High Power Performing Computing.
-- **Machine Learning**: Linear and Logitstic Regression, SVM, Decision Trees and Bayes Classifiers), Deep Learning (TensorFlow, Neural Networks, Transformers (BERT)), Dimensional Reduction (Principal Component Analysis, Multi-dimensional Scaling), Data analysis (Pandas, Polars, tidyverse and Numpy) and Visualization (ggplot2, matplotlib, and seaborn) 
+- **Machine Learning**: Linear and Logitstic Regression, SVM, Decision Trees and Bayes Classifiers
+- **Deep Learning**: TensorFlow, Neural Networks, Transformers -- BERT
+- **Dimensional Reduction**: Principal Component Analysis, Multi-dimensional Scaling,
+- **Data analysis & Visualization**: Pandas, Polars, tidyverse, ggplot2, matplotlib, and seaborn) 
 
 **Mathematical Expertise:** 
 - Solid understanding of Linear Algebra, Numerical Linear Algebra, Probability, and Statistics, essential for developing sophisticated algorithms and data analysis tools.
-
-**Professional Aspiration:** 
-- Passionate about leveraging computational methods to advance healthcare through biological data analysis
 
 # Projects: 
 
