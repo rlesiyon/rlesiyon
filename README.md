@@ -1,9 +1,9 @@
 # Raymond Lesiyon
 
-- Master student in Computational Mathematics Science and Engineering
-- Have used python for data science projects and software engineering.
-- Knowledge in Linear Algebra, Numerical Linear Algebra, probability and statistics.
-- Pursue to write efficient and clean code.
+- Master of Engineering in Computational Mathematics, Science, and Engineering
+- Experienced in using Python and R for both data science projects and software engineering.
+- Proficient in Linear Algebra, Numerical Linear Algebra, Probability, and Statistics.
+- Committed to writing efficient and clean code.
 
 # Projects: 
 
