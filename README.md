@@ -21,9 +21,6 @@ Summary of my technical skills:
 | **Deep Learning**             | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Experienced-green) <br> ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Experienced-green) <br> ![Transformers (BERT)](https://img.shields.io/badge/Transformers%20(BERT)-Experienced-green) |
 | **Data Analysis & Visualization** | ![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue) <br> ![Polars](https://img.shields.io/badge/Polars-Proficient-blue) <br> ![tidyverse](https://img.shields.io/badge/tidyverse-Proficient-blue) <br> ![ggplot2](https://img.shields.io/badge/ggplot2-Proficient-blue) <br> ![matplotlib](https://img.shields.io/badge/matplotlib-Proficient-blue) <br> ![seaborn](https://img.shields.io/badge/seaborn-Proficient-blue) |
 
-**Mathematical Expertise:** 
-- Solid understanding of Linear Algebra, Numerical Linear Algebra, Probability, and Statistics, essential for developing sophisticated algorithms and data analysis tools.
-
 <!---
 rlesiyon/rlesiyon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
