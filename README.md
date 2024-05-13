@@ -36,7 +36,12 @@ This project implements a method for scrapping youtube search result using selen
 + ***Hydra:*** 
 
   We define the project configuration using **hydra**. With hydra we can store file path with credentials and website headers, root url and country of search in yaml file.
-  
+
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
+</div>
 <!---
 rlesiyon/rlesiyon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
