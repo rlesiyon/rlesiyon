@@ -17,6 +17,19 @@ Informatic Professional|Data Scientist|ML Engineer Portfolio: [rlesiyon.github.i
 - **Dimensional Reduction**: Principal Component Analysis, Multi-dimensional Scaling,
 - **Data analysis & Visualization**: Pandas, Polars, tidyverse, ggplot2, matplotlib, and seaborn) 
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 **Mathematical Expertise:** 
 - Solid understanding of Linear Algebra, Numerical Linear Algebra, Probability, and Statistics, essential for developing sophisticated algorithms and data analysis tools.
 
