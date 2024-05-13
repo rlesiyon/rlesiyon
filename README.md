@@ -24,7 +24,6 @@ Here's a summary of my technical skills:
 | **Dimensionality Reduction**  | ![Principal Component Analysis](https://img.shields.io/badge/PCA-Familiar-lightgrey) <br> ![Multi-dimensional Scaling](https://img.shields.io/badge/Multi--dimensional%20Scaling-Familiar-lightgrey) |
 | **Data Analysis & Visualization** | ![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue) <br> ![Polars](https://img.shields.io/badge/Polars-Proficient-blue) <br> ![tidyverse](https://img.shields.io/badge/tidyverse-Proficient-blue) <br> ![ggplot2](https://img.shields.io/badge/ggplot2-Proficient-blue) <br> ![matplotlib](https://img.shields.io/badge/matplotlib-Proficient-blue) <br> ![seaborn](https://img.shields.io/badge/seaborn-Proficient-blue) |
 
-  
 **Mathematical Expertise:** 
 - Solid understanding of Linear Algebra, Numerical Linear Algebra, Probability, and Statistics, essential for developing sophisticated algorithms and data analysis tools.
 
