@@ -11,9 +11,7 @@ Informatic Professional|Data Scientist|ML Engineer Portfolio: [rlesiyon.github.i
   
 **Technical Skills:** 
 
-# Technical Skills
-
-Here's a summary of my technical skills:
+Summary of my technical skills:
 
 | **Category**                   | **Skills**                                                                                       |
 |--------------------------------|--------------------------------------------------------------------------------------------------|
@@ -21,7 +19,6 @@ Here's a summary of my technical skills:
 | **Tools & Technologies**      | ![Git](https://img.shields.io/badge/Git-Proficient-blue) <br> ![Unix/Linux](https://img.shields.io/badge/Unix%2FLinux-Proficient-blue) <br> ![FastQC](https://img.shields.io/badge/FastQC-Proficient-blue) <br> ![samtools](https://img.shields.io/badge/samtools-Proficient-blue) <br> ![STAR](https://img.shields.io/badge/STAR-Proficient-blue) <br> ![High Performance Computing](https://img.shields.io/badge/High%20Performance%20Computing-Proficient-blue) |
 | **Machine Learning**          | ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-Skilled-yellow) <br> ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Skilled-yellow) <br> ![Support Vector Machines](https://img.shields.io/badge/SVM-Skilled-yellow) <br> ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-Skilled-yellow) |
 | **Deep Learning**             | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Experienced-green) <br> ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Experienced-green) <br> ![Transformers (BERT)](https://img.shields.io/badge/Transformers%20(BERT)-Experienced-green) |
-| **Dimensionality Reduction**  | ![Principal Component Analysis](https://img.shields.io/badge/PCA-Familiar-lightgrey) <br> ![Multi-dimensional Scaling](https://img.shields.io/badge/Multi--dimensional%20Scaling-Familiar-lightgrey) |
 | **Data Analysis & Visualization** | ![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue) <br> ![Polars](https://img.shields.io/badge/Polars-Proficient-blue) <br> ![tidyverse](https://img.shields.io/badge/tidyverse-Proficient-blue) <br> ![ggplot2](https://img.shields.io/badge/ggplot2-Proficient-blue) <br> ![matplotlib](https://img.shields.io/badge/matplotlib-Proficient-blue) <br> ![seaborn](https://img.shields.io/badge/seaborn-Proficient-blue) |
 
 **Mathematical Expertise:** 
