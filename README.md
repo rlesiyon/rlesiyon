@@ -8,7 +8,7 @@ Informatic Professional|Data Scientist|ML Engineer Portfolio: [rlesiyon.github.i
 **Educational Background:** 
 - **Master of Engineering in Computational Mathematics Science and Engineering(CMSE)**, providing a robust foundation in advanced computational techniques.
 - **Bachelor of Science in Biosystems Engineering** with Concentration in **Biomedical Engineering** & Minor in **CMSE**
-  
+    
 **Technical Skills:** 
 
 Summary of my technical skills:
