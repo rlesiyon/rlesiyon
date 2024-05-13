@@ -2,12 +2,12 @@
 
 Informatic Professional|Data Scientist|ML Engineer Portfolio: [rlesiyon.github.io](https://rlesiyon.github.io/rlesiyon/)
 
-**Professional Aspiration:** 
-- Passionate about leveraging computational methods to advance healthcare through biological data analysis
-  
+**Professional passion:** 
+- I am passionate in leveraging computational methods to advance healthcare through biological data analysis. With this, I am looking to develop expertise in Machine Learning, Deep Learning, and Data management.
+- 
 **Educational Background:** 
 - **Master of Engineering in Computational Mathematics Science and Engineering(CMSE)**, providing a robust foundation in advanced computational techniques.
-- Bachelor of Science in **Biosystems Engineering** with Concentration in **Biomedical Engineering** & Minor in **CMSE**
+- **Bachelor of Science in Biosystems Engineering** with Concentration in **Biomedical Engineering** & Minor in **CMSE**
   
 **Technical Skills:** 
 - Proficient in **Python** and **R**, utilized extensively in **data science** projects and **software engineering** tasks to analyze **complex datasets** and **build predictive models**.
@@ -19,8 +19,6 @@ Informatic Professional|Data Scientist|ML Engineer Portfolio: [rlesiyon.github.i
   
 **Mathematical Expertise:** 
 - Solid understanding of Linear Algebra, Numerical Linear Algebra, Probability, and Statistics, essential for developing sophisticated algorithms and data analysis tools.
-
-[![Lesiyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlesiyon)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects: 
 
