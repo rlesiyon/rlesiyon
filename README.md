@@ -15,23 +15,12 @@ Informatic Professional|Data Scientist|ML Engineer Portfolio: [rlesiyon.github.i
 - **Machine Learning**: Linear and Logitstic Regression, SVM, Decision Trees and Bayes Classifiers
 - **Deep Learning**: TensorFlow, Neural Networks, Transformers -- BERT
 - **Dimensional Reduction**: Principal Component Analysis, Multi-dimensional Scaling,
-- **Data analysis & Visualization**: Pandas, Polars, tidyverse, ggplot2, matplotlib, and seaborn) 
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
+- **Data analysis & Visualization**: Pandas, Polars, tidyverse, ggplot2, matplotlib, and seaborn)
+  
 **Mathematical Expertise:** 
 - Solid understanding of Linear Algebra, Numerical Linear Algebra, Probability, and Statistics, essential for developing sophisticated algorithms and data analysis tools.
+
+[![Lesiyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlesiyon)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects: 
 
