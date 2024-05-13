@@ -1,6 +1,6 @@
 # Raymond Lesiyon
 
-Informatic Professional|Data Scientist|ML Engineer Portfolio: [rlesiyon.github.io](https://rlesiyon.github.io/rlesiyon/)
+Informatic Professional|Data Scientist|ML Engineer Portfolio: [rlesiyon.github.io](https://rlesiyon.github.io/rlesiyon/), Resume: [View my resume]()
 
 **Passion:** 
 - I am passionate in leveraging computational methods to advance healthcare through biological data analysis. With this, I am looking to develop expertise in Machine Learning, Deep Learning, and Data management.
