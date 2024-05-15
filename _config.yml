@@ -1,14 +1,11 @@
-title: Raymond Lesiyon  # You can add your name here
-
-logo: avatar.jpg # Use a relative path to logo image 
-
-description: Computational Scientist with huge interest on method application to answer question with biological data.
-
-show_downloads: true # Fix spelling
-
-theme: jekyll-theme-minimal 
-
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
-
-email: raymondlesiyon@gmail.com # Allow visitors to contact you
+lsi: false
+safe: true
+source: [.]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+theme: jekyll-theme-minimal
