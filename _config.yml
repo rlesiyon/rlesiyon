@@ -1,8 +1,8 @@
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Raymond Lesiyon"
 title_separator          : "-"
 name                     : &name "Raymond Lesiyon"
-description              : &description "personal description"
+description              : &description "I am passionate in leveraging computational methods to advance healthcare through biological data analysis. With this, I am looking to develop expertise in Machine Learning, Deep Learning, and Data management."
 
 author:
   # Biographic information
