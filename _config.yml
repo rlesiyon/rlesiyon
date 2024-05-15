@@ -3,6 +3,17 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Raymond Lesiyon"
 description              : &description "personal description"
+
+author:
+  # Biographic information
+  avatar           : "avatar.png"
+  name             : "Raymond Lesiyon"
+  pronouns         : "he/his"  
+  bio              : "Computational Biologist"
+  location         : "Aurora, Colorado"
+  employer         : "University of Colorado Anschutz Campus"
+  email            : "raymondlesiyon@gmail.com" 
+
 lsi: false
 safe: true
 source: [.]
