@@ -73,21 +73,7 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
+## default github pages
 lsi: false
 safe: true
 source: [.]
@@ -98,4 +84,3 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-
