@@ -1,6 +1,6 @@
 # Raymond Lesiyon
 
-Informatic Professional|Data Scientist|ML Engineer 
+Informatic Professional |Data Scientist | ML Engineer 
 
 Resume: [View my resume](https://rlesiyon.github.io/rlesiyon/LesiyonRaymond.pdf)
 
