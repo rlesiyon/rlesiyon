@@ -1,3 +1,8 @@
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
+title_separator          : "-"
+name                     : &name "Raymond Lesiyon"
+description              : &description "personal description"
 lsi: false
 safe: true
 source: [.]
