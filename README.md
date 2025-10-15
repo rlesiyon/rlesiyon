@@ -6,6 +6,11 @@ My name is Raymond Lemayana Lesiyon, I am PhD student in Computational Bioscienc
 
 Check out my CV here: [CV](https://github.com/rlesiyon/rlesiyon/blob/main/CV-RaymondLesiyon.pdf)
 
+**Educational Background:** 
+- **Master of Engineering in Computational Mathematics Science and Engineering(CMSE)**, providing a robust foundation in advanced computational techniques.
+- **Bachelor of Science in Biosystems Engineering** with Concentration in **Biomedical Engineering** & Minor in **CMSE**
+
+
 # Research and Projects
 
 - Generalizability of Computational Pathology Foundation models. 
@@ -27,11 +32,6 @@ Summary of my technical skills:
 
 **Passion:** 
 - I am passionate in leveraging computational methods to advance healthcare through biological data analysis. With this, I am looking to develop expertise in Machine Learning, Deep Learning, and Data management.
-  
-**Educational Background:** 
-- **Master of Engineering in Computational Mathematics Science and Engineering(CMSE)**, providing a robust foundation in advanced computational techniques.
-- **Bachelor of Science in Biosystems Engineering** with Concentration in **Biomedical Engineering** & Minor in **CMSE**
-
 
 <!---
 rlesiyon/rlesiyon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
