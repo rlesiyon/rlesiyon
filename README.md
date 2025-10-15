@@ -1,7 +1,5 @@
 # Raymond Lesiyon
 
-Computational Bioscience (CPBS) PhD student at University of Colorado CU Anschutz
-
 My name is Raymond Lemayana Lesiyon, I am PhD student in Computational Bioscience (CPBS) at University of Colorado CU Anschutz Medical Campus. I am interested in applying deep learning techniques to biological problems with a translational goal in mind. Currently, I am looking into foundational models for histopathology images for my first Rotation project
 
 Check out my CV here: [CV](https://github.com/rlesiyon/rlesiyon/blob/main/CV-RaymondLesiyon.pdf)
