@@ -13,7 +13,7 @@ Check out my CV here: [CV](https://github.com/rlesiyon/rlesiyon/blob/main/CV-Ray
 
 - Generalizability of Computational Pathology Foundation models. 
 - Evolution of bacterial traits in relation to its host association and pathogenicity
-- MicroGenomeR, an R data package to harmonize microbial phenotypic and genotypic traits.
+- Data harmonize microbial phenotypic and genotypic traits.
 
 **Technical Skills:** 
 
